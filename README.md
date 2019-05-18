@@ -1,7 +1,10 @@
 # pokemon_app
 
-A new Flutter application.
-<img src="Screenshot_1558207070.png" width="280"> <img src="Screenshot_1558207092.png" width="280"> <img src="Screenshot_1558207064.png" width="280">
+Pokemon App
+<img src="Screenshot_1558207070.png" width="320"> 
+<img src="Screenshot_1558207092.png" width="320"> 
+<img src="Screenshot_1558207064.png" width="320">
+<img src="Screenshot_1558208359.png" width="320">
 
 
 
