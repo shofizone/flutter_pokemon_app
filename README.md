@@ -1,8 +1,9 @@
 # pokemon_app
 
 A new Flutter application.
+<img src="Screenshot_1558207070.png" width="280"> <img src="Screenshot_1558207092.png" width="280"> <img src="Screenshot_1558207064.png" width="280">
 
-![image](Screenshot_1558207092.png?raw=true) ![image](Screenshot_1558207064.png) ![image](Screenshot_1558207070.png) 
+
 
 ## Getting Started
 
